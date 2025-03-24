@@ -1,4 +1,4 @@
-# part a questions
+# part A programme for part B
 
 # number = 4, vehicle
 # attr= name, year, max_speed, mileage, color
